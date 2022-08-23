@@ -93,8 +93,6 @@ def create_token(request):
         status=status.HTTP_400_BAD_REQUEST,
     )
 
-    pass
-
 
 class GenreViewSet(CreateListDestroyViewSet):
     serializer_class = GenreSerializer
