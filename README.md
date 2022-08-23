@@ -1,4 +1,4 @@
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![workflow status](https://github.com/github/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
 ## Техническое описание проекта API YaMDb.
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles).
 
