@@ -1,4 +1,4 @@
-![workflow status](https://github.com/github/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
+[![Actions Status](https://github.com/8Vadim8/yamdb_final/workflows/Build%20and%20Test/badge.svg)](https://github.com/8Vadim8/yamdb_final/actions)
 ## Техническое описание проекта API YaMDb.
 Проект YaMDb собирает отзывы (Review) пользователей на произведения (Titles).
 
